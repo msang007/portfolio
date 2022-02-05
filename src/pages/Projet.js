@@ -15,7 +15,7 @@ const Projet = () => {
                    la generation de personnage de la serie Marvel. 
                 </p>
                 <div className="zip">
-                        <a href={file}  target="_blank" download>Telecharger Projet</a>
+                    <a href={file}  target="_blank" download>Telecharger Projet</a>
                 </div>
             </div>
         </div>

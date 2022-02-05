@@ -9,7 +9,7 @@ const Application = () => {
                 <div className="content">
                     <h1>Application Realise jusqu'a Date</h1>
                     <p>
-                        Concernant mes applications, j'ai eu le privilege de participer
+                        Concernant mon application, j'ai eu le privilege de participer
                         en groupe a la creation d'une application de bureau permettant 
                         de gerer les stagiaires(Ajouter,supprimer,Modifier) a partir de WPF 
                         sur Microsoft Visual Studio 2019.

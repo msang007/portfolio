@@ -1,12 +1,13 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import photo from '../media/Moi.jpg';
 const Navigation = () => {
     return (
         <div className="sidebar">
             <div className="id">
                  <div className="idContent">
                      <picture>
-                     <img src="./media/Moi.jpg"  height={150} width={150} />
+                     <img src={photo} alt='ma personne' height={150} width={150} />
                      </picture>
                      <h3>Mamadou Hamidou Sangare</h3>
                  </div>

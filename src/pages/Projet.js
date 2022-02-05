@@ -1,5 +1,6 @@
 import React from 'react';
 import Navigation from '../composants/Navigation';
+import file from '../media/Marvel.zip';
 
 const Projet = () => {
     return (
@@ -14,7 +15,7 @@ const Projet = () => {
                    la generation de personnage de la serie Marvel. 
                 </p>
                 <div className="zip">
-                        <a href="./media/Marvel.zip" target="_blank">Telecharger Projet</a>
+                        <a href={file}  target="_blank" download>Telecharger Projet</a>
                 </div>
             </div>
         </div>

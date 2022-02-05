@@ -1,5 +1,6 @@
 import React from 'react';
 import Navigation from '../composants/Navigation';
+import file from '../media/GestionStagiaireProgramme.zip';
 const Application = () => {
     return (
         <div className="Application">
@@ -14,7 +15,7 @@ const Application = () => {
                         sur Microsoft Visual Studio 2019.
                     </p>
                     <div className="zip">
-                        <a href='./media/GestionStagiaireProgramme.zip' target="_blank">Telecharger Application</a>
+                        <a href={file}  target="_blank" download>Telecharger Application</a>
                     </div>
                 </div>
             </div>

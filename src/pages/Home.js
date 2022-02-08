@@ -1,5 +1,8 @@
+//importation de la librairie react.
 import React from 'react';
+//importation de ma page de navigation
 import Navigation from '../composants/Navigation';
+//importation du fichier pdf a telecharger sur ma page Acceuil.
 import file from '../media/CV.pdf';
 const Home = () => {
     return (

@@ -1,3 +1,4 @@
+//style de ma feuille de style Application pour la page app.
 .Application {
 
     .applicationcontent {
@@ -54,6 +55,7 @@
       }
     }
   }
+  // Affichage de l'ecran de ma page selon une largeur max.
   @media screen and (max-width: 850px){
     .applicationcontent {
       margin: 0 !important;

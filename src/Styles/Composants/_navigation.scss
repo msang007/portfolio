@@ -1,3 +1,4 @@
+// style de mon side bar en display grid
 .sidebar{
     background: $color-1;
     font-family: $font-1;
@@ -81,7 +82,7 @@
 
    
 }
-
+// Style de ma classe socialNetwork
 .socialNetwork{
     grid-area: 3;
 
@@ -122,7 +123,7 @@
         }
     }
 }
-
+//Affichagee de l'ecran selon le format.
 @media screen and (max-width:850px){
     .sidebar{
         display:flex;

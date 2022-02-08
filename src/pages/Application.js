@@ -1,5 +1,8 @@
+//importation de la librairie react.
 import React from 'react';
+//importation de ma page de navigation.
 import Navigation from '../composants/Navigation';
+//importation de fichier zip qui pourra etre telecharge.
 import file from '../media/GestionStagiaireProgramme.zip';
 const Application = () => {
     return (

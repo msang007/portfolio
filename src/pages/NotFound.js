@@ -1,4 +1,8 @@
+//Page Not Found au cas ou un utilisateur malicieux s'amuserait a mettre
+//quelque chose dans l'URL.
+//importation de librairie react
 import React from 'react';
+//importation du NavLink de la librairie react-router-dom
 import { NavLink } from 'react-router-dom';
 const NotFound = () => {
     return (

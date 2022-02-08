@@ -1,0 +1,14 @@
+rapport
+Au cours de ce projet individuel, j'ai eu des difficultes a faire les Pages avec le import du React Router Dom, ses constituants tel que le Routes et le Route pour la navigation 
+entre mes differentes pages.J'ai fait quelques petites recherches sur le net pour pouvoir resoudre mon probleme jai aussi suivi les notes cours, j'ai consulte certains 
+de mes collegues de classes et amis proche.J'ai rencontre de la misere aussi pendant le stylage css de mon site web, j'ai fait mes recherches sur la facon dont je voulais 
+style mon site.J'ai eu des complications au niveau de comment permettre le telechargement des fichier pdf,zip qui de mes anciennes applications et projets realises.j'ai suivi une enregistrement 
+ou le prof nous a montre comment faire le telechargement a partir de l'attribut download sur les balises a dont je me suis bcp inspire.J'ai rencontre des 
+complications avec la configuration de mon git, du cache de memoire dans les settings de mon navigateurs web et avec le npm run deploy.
+
+Les references que j'ai utilise pour realise mon site web sont:
+https://ultimatescourses.com/blog/programmatically-navigate-react-router
+https://create-react-app.dev/docs/adding-images-fonts-and-files/
+https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react
+https://www.youtube.com/watch?v=pS0v5eY7W9k
+

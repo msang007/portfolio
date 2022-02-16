@@ -11,6 +11,7 @@ $color-1: #2a1d52;
 $color-2: #6c77F4;
 $color-3: rgb(99,164,233);
 $color-4: #4FEDD2;
+$color-5: #36D0EA;
 $white: #ffff;
 $black: #3333;
 
@@ -53,14 +54,14 @@ a:visited {
     color:$black;
 }
 
-.Home, .Application, .Projet{
+.Home, .Application, .Projet, .Contact{
     display:flex;
     @media screen and (max-width:850px){
         display:block !important;
     }
 }
 // affichage de mes differentes classes selon le stadard choisi.
-.HomeContent, .ApplicationContent, .ProjetContent{
+.homeContent, .applicationContent, .projetContent, .contactContent{
     margin-left: .4rem;
 
     @media screen and(max-width:850px){

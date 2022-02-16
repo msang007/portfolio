@@ -5,6 +5,7 @@ import {BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import Application from './pages/Application';
 import Projet from './pages/Projet';
+import Contact from './pages/Contact';
 import NotFound from './pages/NotFound';
 //Utilisation du BrowserRouter qui va contenir les elements du Route.
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
             <Route  path="/"  element={<Home/>} />
             <Route  path="/Application" element={<Application/>} />
             <Route  path="/Projet" element={<Projet/>} />
+            <Route  path="/Contact" element={<Contact/>} />
             <Route  path="/portfolio"  element={<Home/>} />
             <Route  path= "*" element={<NotFound/>} />
          </Routes>
